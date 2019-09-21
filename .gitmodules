@@ -1,0 +1,3 @@
+[submodule "json-schema-spec"]
+	path = json-schema-spec
+	url = https://github.com/json-schema-org/json-schema-spec.git
